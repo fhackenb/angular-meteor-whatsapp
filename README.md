@@ -12,5 +12,8 @@ Instructions:
 1)git clone https://github.com/fhackenb/angular-meteor-whatsapp
 2)npm install
 3)bower install
+
+To run on mobile:
+
 4)cordova platform add android
 5)ionic run android
