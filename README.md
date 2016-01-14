@@ -15,6 +15,8 @@ Instructions:
 
 3)bower install
 
+4)cordova plugin add cordova-whitelist-plugin
+
 To run on mobile:
 
 4)cordova platform add android
